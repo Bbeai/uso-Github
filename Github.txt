@@ -30,5 +30,28 @@ Commit to master: asegura los cambio
 (Commits se hacen cada vez que se hace una tarea completa, no solo cuando se edita una linea)
 Fetch origin: envia el codigo, los cambio hechos a la web
 
+Color rojo; te muestra que ago ha cambado, editado, agregado en determinadas lienas.
 
-Estoy probando branchhsssss hav
+
+Algo bueno que ofrece github son los cambios en paralelo 
+concepto conocido como ramificacion, caracteristica util que tiene git
+permite tener de forma paralela varias versiones de codigo para distintos cambios 
+que estamos haciendo esto facilita hacer cambios de forma segura para que si se qiuere dar marcha
+atras todo lo que hay que hacer es ejecutar un comando o pulsar un boton si estamos en una interfaz grafica
+para que parezca que no paso nada en las ultimas horas, dias o en general.
+
+Cuando se crea un proyecto en git se crea una ama llamada master que es donde se aloja todo
+para crear una nueva rama New branch y colocamos un nombre que sea descriptivo de lo que se hara ahi
+
+
+En pocas palabras crear ramas de un determinado proyecto es como sacar una copia del proyecto, poder
+modificarlos o hacerle lo que quieramos los cambios se suben normal con el summary y la descripcion si queremos
+seleccionamo la branch donde queremos que se alojen los cambios y los mandamos
+cuando cambiemos a la main (rama principal) no se veran cambios solo hasta donde dejamos el proyecto
+pero al cambiar a la rama que creamos se muestra todo lo que modificamos o agregamos y nuestro codigo original
+estara a salvo.
+
+Cuando ya terminamos de modificar nuestra rama y los cambios queremos tenerlos en el proyecto original 
+tenemos que hacer ´fusion´ o ´merge en ingles´ 
+vamos a transferir los comits hechos en la rama, para eso vamos a la rama master y pulsar el boton ´compare´nos
+mostrara como se ve con los combios  que acabamos de hacer en seguida update para mezclar los commits de ambas ramas
