@@ -27,4 +27,5 @@ Color verde: Lineas agregadas
 Summary (obligatorio): ¿Que es lo que se ha hecho?
 DEscription (opcinal): Mas info 
 Commit to master: asegura los cambio 
-(Commits se hacen cada vez que se hace una tarea completa, no solo cuandi se edita una linea)
+(Commits se hacen cada vez que se hace una tarea completa, no solo cuando se edita una linea)
+Fetch origin: envia el codigo, los cambio hechos a la web
