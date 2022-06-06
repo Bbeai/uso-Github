@@ -1,0 +1,30 @@
+Copia de seguridad:
+-facil de usar
+-intuitivo para nuevos usuarios
+-integrarse bien con nuestras herramientas
+- ser fiable
+Se concideran sistemas de control de versiones: toma instantaneas, copias del codigo
+mientras se esta desarrollando, se puede acceder a el en cualquier tiempo y compartir
+(El codigo ya no se envia por email ni skype :()
+
+Git-- CVS, SVN, Mercurial, Git, Microsoft SourceSAfe (Sistemas de control de versiones)
+Linea de comandos, existen clientes graficos para interactuar con git
+Podemos usar git sin crearnos ua cuenta en github podemos usar gitlab o bitbucket
+
+Github-- Subir y compartir codigo, guardar copia de seguridad
+servicio de alojamiento, una vez creadad una cienta podemos alojar proyectos
+
+--New repository
+--poner nombre (corto y memorable)
+--descripcion
+--publico/privado
+--Inicicalizar archivo con Readme
+--Se puede colocar un gitignores y un tipo de licencia que usará el proyecto
+-- Repo creado
+
+	--GithubDescktop--
+Color verde: Lineas agregadas
+Summary (obligatorio): ¿Que es lo que se ha hecho?
+DEscription (opcinal): Mas info 
+Commit to master: asegura los cambio 
+(Commits se hacen cada vez que se hace una tarea completa, no solo cuandi se edita una linea)
